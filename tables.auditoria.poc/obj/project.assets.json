@@ -1075,11 +1075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\sinacor\\Pocs\\sinacor.auditoria.poc\\sinacor.auditoria.poc\\tables.auditoria.poc.csproj",
+      "projectUniqueName": "C:\\projects\\Sample-azure-tables\\tables.auditoria.poc\\tables.auditoria.poc.csproj",
       "projectName": "tables.auditoria.poc",
-      "projectPath": "C:\\projects\\sinacor\\Pocs\\sinacor.auditoria.poc\\sinacor.auditoria.poc\\tables.auditoria.poc.csproj",
+      "projectPath": "C:\\projects\\Sample-azure-tables\\tables.auditoria.poc\\tables.auditoria.poc.csproj",
       "packagesPath": "C:\\Users\\gustavo.bigardi\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\sinacor\\Pocs\\sinacor.auditoria.poc\\sinacor.auditoria.poc\\obj\\",
+      "outputPath": "C:\\projects\\Sample-azure-tables\\tables.auditoria.poc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

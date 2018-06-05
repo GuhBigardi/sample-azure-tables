@@ -3,7 +3,7 @@ using Microsoft.WindowsAzure.Storage;
 using Microsoft.WindowsAzure.Storage.Table;
 using System.IO;
 
-namespace sinacor.auditoria.poc
+namespace tables.auditoria.poc
 {
     class Program
     {
