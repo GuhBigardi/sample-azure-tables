@@ -1,0 +1,11 @@
+C:\projects\sinacor\Pocs\sinacor.auditoria.poc\sinacor.auditoria.poc\bin\Debug\netcoreapp2.0\appsettings.json
+C:\projects\sinacor\Pocs\sinacor.auditoria.poc\sinacor.auditoria.poc\bin\Debug\netcoreapp2.0\tables.auditoria.poc.deps.json
+C:\projects\sinacor\Pocs\sinacor.auditoria.poc\sinacor.auditoria.poc\bin\Debug\netcoreapp2.0\tables.auditoria.poc.runtimeconfig.json
+C:\projects\sinacor\Pocs\sinacor.auditoria.poc\sinacor.auditoria.poc\bin\Debug\netcoreapp2.0\tables.auditoria.poc.runtimeconfig.dev.json
+C:\projects\sinacor\Pocs\sinacor.auditoria.poc\sinacor.auditoria.poc\bin\Debug\netcoreapp2.0\tables.auditoria.poc.dll
+C:\projects\sinacor\Pocs\sinacor.auditoria.poc\sinacor.auditoria.poc\bin\Debug\netcoreapp2.0\tables.auditoria.poc.pdb
+C:\projects\sinacor\Pocs\sinacor.auditoria.poc\sinacor.auditoria.poc\obj\Debug\netcoreapp2.0\tables.auditoria.poc.csproj.CoreCompileInputs.cache
+C:\projects\sinacor\Pocs\sinacor.auditoria.poc\sinacor.auditoria.poc\obj\Debug\netcoreapp2.0\tables.auditoria.poc.AssemblyInfoInputs.cache
+C:\projects\sinacor\Pocs\sinacor.auditoria.poc\sinacor.auditoria.poc\obj\Debug\netcoreapp2.0\tables.auditoria.poc.AssemblyInfo.cs
+C:\projects\sinacor\Pocs\sinacor.auditoria.poc\sinacor.auditoria.poc\obj\Debug\netcoreapp2.0\tables.auditoria.poc.dll
+C:\projects\sinacor\Pocs\sinacor.auditoria.poc\sinacor.auditoria.poc\obj\Debug\netcoreapp2.0\tables.auditoria.poc.pdb
